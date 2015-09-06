@@ -1,0 +1,15 @@
+{
+  "name": "shp-to-geojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gdal": "^0.7.1",
+    "lodash": "^3.10.1"
+  }
+}
